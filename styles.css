@@ -1,0 +1,30 @@
+body{
+    background: whitesmoke;
+    background-image:url(/images/background.jpg);
+}
+h2{
+    text-align: left;
+    color: rgb(7, 228, 99);
+    font-weight: 100%;
+    font-size: 30px;
+}
+center{
+    font-size: 25px;
+    font-weight: 20%;
+    color: tomato;
+}
+form{
+    color: black;
+    font: 300;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+form input{
+    color:black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+button{
+    
+    text-align: left;
+    font-size: 15px;
+}
+
